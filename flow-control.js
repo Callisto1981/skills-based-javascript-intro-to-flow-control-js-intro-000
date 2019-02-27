@@ -1,5 +1,6 @@
-function basicTeenagerif(13) { "you are a teenager!"()
+function basicTeenager(13) { you are a teenager!
 }
+if(13-19) {'you are a teenager!'}
 function teenager(age) {
 
 }

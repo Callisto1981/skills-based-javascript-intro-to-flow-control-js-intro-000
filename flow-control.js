@@ -1,4 +1,4 @@
-function basicTeenager if( `13 && 19` ) { `you are a teenager!`
+function basicTeenagerif ( `13 && 19` ) { `you are a teenager!`
 }
 function teenager(age) {
 
